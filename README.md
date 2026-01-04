@@ -302,14 +302,13 @@ IF timeout (5 min):
 
 ## 🚀 Implementation Order
 
-| Week | Stages | Focus |
-|------|--------|-------|
-| **Week 1** | Stages 1-2 | Setup + Memory |
-| **Week 2** | Stages 3-4 | Scraping + Conversation |
-| **Week 3** | Stages 5-6 | MCP Actions + Approval |
-| **Week 4** | Stages 7-8 | Error Handling + Testing |
+| Stages | Focus |
+|--------|-------|
+| Stages 1-2 | Setup + Memory |
+| Stages 3-4 | Scraping + Conversation |
+| Stages 5-6 | MCP Actions + Approval |
+| Stages 7-8 | Error Handling + Testing |
 
-**Total Time:** ~16 days
 
 ---
 
