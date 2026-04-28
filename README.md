@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/duttaneha201-ux-n8n-fees-charges-explainer-agent-badge.png)](https://mseep.ai/app/duttaneha201-ux-n8n-fees-charges-explainer-agent)
+
 # N8N-Fees-Charges-Explainer-Agent-
 Build a conversational agent in N8N that explains HDFC mutual fund fees using official sources, with chat memory, approval gates, and audit trails.
 
